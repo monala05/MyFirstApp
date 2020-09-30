@@ -1,4 +1,6 @@
 # MyFirstApp
+![](appDemo/firstApp.gif)
+
 A simple app with three buttons, one that displays a message, one that keeps a count of how many times you click it, and one that will display a random number between 0 
 and the number of times you clicked the count button.
 
